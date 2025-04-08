@@ -1,1 +1,3 @@
 # my git learning journey
+
+# I'm learning git through practical exercises!
