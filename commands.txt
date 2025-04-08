@@ -3,3 +3,5 @@ git init - initialize a git repository
 git status - view the current status of the repository, uncluding uncommitted modified files.
 git add - stage changed files to be committed to HEAD repository
 git commit - record specified changes to the repository. use -m to add a comment on what was changed.
+git branch - create or list branches.
+git checkout - switch branches.
