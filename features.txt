@@ -1,0 +1,4 @@
+# features to learn:
+- branching and merging
+- remote repositories
+- resolving conflicts
